@@ -1022,6 +1022,32 @@ margin-left: 120px;
   background: #0065B7;}
 }
 
+@media (max-width: 553px){
+  .aposta{  
+font-family: arial;
+  color: #FFFFFF !important;
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+  padding: 25px 25px;
+margin-right: 10px;
+margin-left: 10px;
+  background: #0065B7;}
+}
+
+@media (max-width: 375px){
+  .aposta{  
+font-family: arial;
+  color: #FFFFFF !important;
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+  padding: 25px 25px;
+margin-right: 0px;
+margin-left: 0px;
+  background: #0065B7;}
+}
+
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
 #cssmenu,
 #cssmenu ul,
