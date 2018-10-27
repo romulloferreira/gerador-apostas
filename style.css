@@ -1035,11 +1035,11 @@ margin-left: 10px;
   background: #0065B7;}
 }
 
-@media (max-width: 375px){
+@media (max-width: 30em){
   .aposta{  
 font-family: arial;
   color: #FFFFFF !important;
-  font-size: 12px;
+  font-size: 9px;
   font-weight: bold;
   text-align: center;
   padding: 5px 5px;
