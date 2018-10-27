@@ -1009,6 +1009,19 @@ margin-left: 200px;
   background: #0065B7;}
 }
 
+@media (max-width: 770px){
+  .aposta{  
+font-family: arial;
+  color: #FFFFFF !important;
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+  padding: 25px 25px;
+margin-right: 120px;
+margin-left: 120px;
+  background: #0065B7;}
+}
+
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
 #cssmenu,
 #cssmenu ul,
