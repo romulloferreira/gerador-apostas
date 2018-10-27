@@ -1013,7 +1013,7 @@ margin-left: 200px;
   .aposta{  
 font-family: arial;
   color: #FFFFFF !important;
-  font-size: 28px;
+  font-size: 24px;
   font-weight: bold;
   text-align: center;
   padding: 25px 25px;
@@ -1026,10 +1026,10 @@ margin-left: 120px;
   .aposta{  
 font-family: arial;
   color: #FFFFFF !important;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: bold;
   text-align: center;
-  padding: 25px 25px;
+  padding: 15px 15px;
 margin-right: 10px;
 margin-left: 10px;
   background: #0065B7;}
@@ -1039,10 +1039,10 @@ margin-left: 10px;
   .aposta{  
 font-family: arial;
   color: #FFFFFF !important;
-  font-size: 16px;
+  font-size: 12px;
   font-weight: bold;
   text-align: center;
-  padding: 25px 25px;
+  padding: 5px 5px;
 margin-right: 0px;
 margin-left: 0px;
   background: #0065B7;}
